@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TL_Client</string>
+    <string name="action_settings">Settings</string>
+    <string name="account">请输入账号</string>
+    <string name="password">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="register2">注册</string>
+    <string name="auto_save_password">自动保存密码</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_recent">RecentActivity</string>
+    <string name="title_activity_buddy">BuddyActivity</string>
+    <string name="title_activity_group_acitivity">GroupAcitivity</string>
+    <string name="title_activity_trends_acitivy">TrendsAcitivy</string>
+    <string name="title_activity_more">MoreActivity</string>
+    <string name="group">group</string>
+    <string name="more">more</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="register_tip">提示！带*号为必填项。</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_dbtest">DBTestActivity</string>
+    <string name="title_activity_welcom">WelcomActivity</string>
+    <string name="title_activity_enter">EnterActivity</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_starts">StartsActivity</string>
+
+</resources>
